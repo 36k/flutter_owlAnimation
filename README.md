@@ -1,6 +1,6 @@
 # flutter_owlAnimation
 
-一个flutter点击密码框捂眼动画的实现
+一个flutter捂眼动画的实现
 
 
 
