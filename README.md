@@ -12,7 +12,7 @@
 
 
 
-1. 下载 owl.dart文件
+1. 下载 [owl.dart](https://github.com/36k/flutter_owlAnimation/tree/master/owl/lib/widgets)文件
 
 2. 将静态资源文件导入您的静态资源文件夹
 
