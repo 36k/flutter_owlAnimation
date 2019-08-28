@@ -1,4 +1,5 @@
 # flutter_owlAnimation
+<<<<<<< HEAD
 
 一个flutter点击密码框捂眼动画的实现
 
@@ -35,3 +36,6 @@ final OwlAnimation owlAnimation = OwlAnimation();
 ## 引用说明
 
 > 使用了[Zws-China](https://github.com/Zws-China)的素材
+=======
+一个点击密码框捂眼动画的实现
+>>>>>>> cb294a4bcda843333dc12092be8858b39c70dd01
