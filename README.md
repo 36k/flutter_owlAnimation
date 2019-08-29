@@ -34,4 +34,4 @@ final OwlAnimation owlAnimation = OwlAnimation();
 
 ## 引用说明
 
-> 使用了[Zws-China](https://github.com/Zws-China/CAAnimation)的素材
+> 使用了[Zws-China](https://github.com/Zws-China/WSLoginView)的素材
